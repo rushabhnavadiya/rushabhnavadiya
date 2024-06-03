@@ -1,12 +1,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ff661b&size=25&duration=3000&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Rushabh;Flutter|Android+Software+Developer;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ff661b&size=25&duration=3000&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Rushabh;Senior+Frontend+Developer;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 
 
-I'm a forward-thinking developer offering four years of experience building, integrating, testing, and supporting Android and iOS applications for mobile, iPad, and tablet devices, and I seek a position with top technology firms.
+I'm a forward-thinking developer offering 5 years of experience building, integrating, testing, and supporting Android and iOS applications for mobile, iPad, and tablet devices. I seek a position with top technology firms.
 Here you will find some of my personal projects that I have created and shown in the project section.
 
 
@@ -35,7 +35,7 @@ Here you will find some of my personal projects that I have created and shown in
 
 ### About:
 
-Feel free to visit my website **[rushabh-navadiya.netlify.app](https://rushabh-navadiya.netlify.app)** to explore some of my recent **projects** and find more about me.
+Feel free to visit my website **[rushabh-navadiya.netlify.app](https://rushabh-navadiya.netlify.app)** to explore some of my recent **projects** and find out more about me.
 
 I'm looking for full-time opportunities that will allow me to contribute, learn, and grow. Please contact me through **[Linkedin](https://linkedin.com/in/rushabh-navadiya-77342118b)** or my **[Website](https://rushabh-navadiya.netlify.app)** if you have a good opportunity that matches my skills and experience.
 
