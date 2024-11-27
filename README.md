@@ -6,7 +6,7 @@
 
 
 
-I'm a forward-thinking developer offering 5 years of experience building, integrating, testing, and supporting Android and iOS applications for mobile, iPad, and tablet devices. I seek a position with top technology firms.
+I'm a forward-thinking developer offering 6 years of experience building, integrating, testing, and supporting Android and iOS applications for mobile, iPad, and tablet devices. I seek a position with top technology firms.
 Here you will find some of my personal projects that I have created and shown in the project section.
 
 
