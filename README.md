@@ -37,12 +37,12 @@ Here you will find some of my personal projects that I have created and shown in
 
 Feel free to visit my website **[rushabh-navadiya.netlify.app](https://rushabh-navadiya.netlify.app)** to explore some of my recent **projects** and find out more about me.
 
-I'm looking for full-time opportunities that will allow me to contribute, learn, and grow. Please contact me through **[Linkedin](https://linkedin.com/in/rushabh-navadiya-77342118b)** or my **[Website](https://rushabh-navadiya.netlify.app)** if you have a good opportunity that matches my skills and experience.
+I'm looking for full-time opportunities that will allow me to contribute, learn, and grow. Please contact me through **[Linkedin](https://linkedin.com/in/rushabh-navadiya)** or my **[Website](https://rushabh-navadiya.netlify.app)** if you have a good opportunity that matches my skills and experience.
 
 ---
 
 ### Connect with me:
 
-👨‍💼 **[Linkedin](https://linkedin.com/in/rushabh-navadiya-77342118b)**
+👨‍💼 **[Linkedin](https://linkedin.com/in/rushabh-navadiya)**
 
 🌎 **[Website](https://rushabh-navadiya.netlify.app)**
