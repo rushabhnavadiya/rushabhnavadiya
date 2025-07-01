@@ -24,15 +24,6 @@ Here you will find some of my personal projects that I have created and shown in
 ![Github](https://img.shields.io/badge/github-%23171515.svg?style=for-the-badge&logo=Github&logoColor=white) ![Git](https://img.shields.io/badge/git-EB3937?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rushabhnavadiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rushabhnavadiya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhnavadiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
 ### About:
 
 Feel free to visit my website **[rushabh-navadiya.netlify.app](https://rushabh-navadiya.netlify.app)** to explore some of my recent **projects** and find out more about me.
